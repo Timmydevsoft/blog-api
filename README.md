@@ -133,6 +133,35 @@ This is a RESTful API for a blogging platform built with Node.js, Express, and M
 | `GET`  | `/api/kyc/:id` | Get KYC details       | Yes                    |
 | `PUT`  | `/api/kyc/:id` | Update KYC details    | Yes                    |
 
+## Contributing  
+
+I welcome contributions/correction/critics to improve this project! Follow these steps to contribute:  
+
+### 1. Fork the Repository  
+Click the **Fork** button at the top right of this repository to create a copy in your GitHub account.  
+
+### 2. Clone the Repository  
+Clone the forked repository to your local machine:  
+```sh
+git clone https://github.com/your-username/blog-api.git
+```
+### 3. Create New Branch
+git checkout -b feature-name
+
+### 4. Make your changes
+### 5. Commit your changes
+   git add .
+   git commit -m "Added feature-name"
+### 6. Pus to github
+   git push origin feature-name
+
+### 7. Create a pull request
+    
+🎉 That's it! Thank you for contributing! 🎉
+
+
+
+
 
 
 
